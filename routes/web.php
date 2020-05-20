@@ -11,6 +11,20 @@
 |
 */
 
-Route::get('/{any}', function(){
-        return view('landing');
-})->where('any', '.*');
+//Route::get('accessor/index', 'AccessorController@index');
+
+// Route::get('/{any}', function(){
+//         return view('landing');
+// })->where('any', '.*');
+
+Route::get('/pageone', function() {
+   return view('pageone'); 
+});
+
+Route::get('/pagetwo', function() {
+    return view('pagetwo');
+});
+
+Route::get('/place/{paymentMethod}', [
+    'as' => 'order-place', 'uses' => 'CheckoutController@placeOrder'
+]);
