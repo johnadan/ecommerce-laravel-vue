@@ -13,8 +13,10 @@
     },
     "require-dev": {
         "filp/whoops": "2.9.1",
+        
+        "laravel/browser-kit-testing": "6.2.2",
         "fzaninotto/faker": "1.9.2",
-        "laravel/browser-kit-testing": "4.2.1",
+        
         "laravel/dusk": "4.0.5",
         "mockery/mockery": "1.4.2",
         "nunomaduro/collision": "2.1.1",
