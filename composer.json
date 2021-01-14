@@ -19,7 +19,7 @@
         
         "laravel/dusk": "4.0.5",
         "mockery/mockery": "1.4.2",
-        "nunomaduro/collision": "2.1.1",
+        "nunomaduro/collision": "5.2.0",
         "phpunit/phpunit": "7.5.20"
     },
     "autoload": {
