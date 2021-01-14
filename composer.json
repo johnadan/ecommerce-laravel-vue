@@ -9,7 +9,7 @@
         "fideloper/proxy": "4.4.1",
         "laravel/framework": "5.8.38",
         "laravel/passport": "10.1.0",
-        "laravel/tinker": "1.0.10"
+        "laravel/tinker": "2.5.0"
     },
     "require-dev": {
         "filp/whoops": "2.9.1",
