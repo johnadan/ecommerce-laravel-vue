@@ -22,7 +22,7 @@
 
         "phpunit/phpunit": "9.5.1",
 
-        "nunomaduro/collision": "5.2.0"
+        "nunomaduro/collision": "5.3.0"
 
 
     },
