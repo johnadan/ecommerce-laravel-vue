@@ -14,7 +14,7 @@
         "bootstrap": "4.6.0",
         "cross-env": "7.0.3",
         "jquery": "3.6.0",
-        "laravel-mix": "6.0.13",
+        "laravel-mix": "6.0.16",
         "vue": "2.6.12"
     }
 }
