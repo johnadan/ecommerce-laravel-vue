@@ -14,7 +14,7 @@
     "require-dev": {
         "filp/whoops": "2.14.5",
         
-        "laravel/browser-kit-testing": "6.2.2",
+        "laravel/browser-kit-testing": "7.2.0",
         "fzaninotto/faker": "1.9.2",
         
         "laravel/dusk": "6.24.0",
