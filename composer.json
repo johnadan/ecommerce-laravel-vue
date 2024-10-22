@@ -17,7 +17,7 @@
         "laravel/browser-kit-testing": "6.2.2",
         "fzaninotto/faker": "1.9.2",
         
-        "laravel/dusk": "6.24.0",
+        "laravel/dusk": "8.2.10",
         "mockery/mockery": "1.5.0",
 
         "phpunit/phpunit": "9.5.21",
